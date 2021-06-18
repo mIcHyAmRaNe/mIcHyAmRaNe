@@ -31,7 +31,6 @@ I’m an Electronics student based in Algeria
   </a>
 </p>
 
-<h1 align="center"> Bye 👋 </h1>
 <p align="center">
   <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=michyamrane.michyamrane&style=for-the-badge">
