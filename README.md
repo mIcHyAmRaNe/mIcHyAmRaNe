@@ -4,8 +4,12 @@ I’m an Electronics student based in Kabylie
 </p>
 
 <div align="center">
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%E2%B5%A3%20mIcHy%20AmRaNe%20&style=social&url=https%3A%2F%2Ftwitter.com%2Fmichyamrane%3Flang%3Den">
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJ6BqQI-EEJUWEl7SdzeD_Q?label=%20mIcHy%20AmRaNe%20%E2%B5%A3%20-%20YouTube&style=social">
+  <a href="https://twitter.com/michyamrane" target="_blank">
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%E2%B5%A3%20mIcHy%20AmRaNe%20&style=social&url=https%3A%2F%2Ftwitter.com%2Fmichyamrane%3Flang%3Den">
+  </a>
+  <a href="https://www.youtube.com/channel/UCJ6BqQI-EEJUWEl7SdzeD_Q" target="_blank">
+    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJ6BqQI-EEJUWEl7SdzeD_Q?label=%20mIcHy%20AmRaNe%20%E2%B5%A3%20-%20YouTube&style=social">
+  </a>
 </div>
 
 <h1 align="center"> 📊 Stats: </h1>
