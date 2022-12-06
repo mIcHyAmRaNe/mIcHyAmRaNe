@@ -1,7 +1,13 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center">i’m mIcHy AmRaNe.
-I’m an Electronics student based in Algeria
+I’m an Electronics student based in Kabylie
 </p>
+
+<div align="center">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=%E2%B5%A3%20mIcHy%20AmRaNe%20&style=social&url=https%3A%2F%2Ftwitter.com%2Fmichyamrane%3Flang%3Den">
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJ6BqQI-EEJUWEl7SdzeD_Q?label=%20mIcHy%20AmRaNe%20%E2%B5%A3%20-%20YouTube&style=social">
+</div>
+
 <h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
@@ -20,7 +26,7 @@ I’m an Electronics student based in Algeria
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=michyamrane&theme=react-dark&hide_border=true">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=michyamrane&theme=react-dark&hide_border=true">
   </a>
 </p>
 
