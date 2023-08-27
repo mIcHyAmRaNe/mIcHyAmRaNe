@@ -30,7 +30,7 @@ I’m an Electronics student based in Kabylie
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=michyamrane&theme=react-dark&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=michyamrane&theme=react-dark&hide_border=true">
   </a>
 </p>
 
@@ -53,7 +53,6 @@ I’m an Electronics student based in Kabylie
 
 <h2 align="center"> 🧮 Counter: </h2>
 <p align="center">
-  <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=michyamrane.michyamrane&style=for-the-badge">
-<a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmichyamrane%2Fmichyamrane&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true"/>
+  </a>
 </p>
