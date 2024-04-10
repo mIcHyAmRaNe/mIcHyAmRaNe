@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center">i’m mIcHy AmRaNe.
-I’m an Electronics student based in Kabylie
+I’m an IT student based in Paris
 </p>
 
 <div align="center">
